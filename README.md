@@ -20,3 +20,5 @@ Pseudocodice
 1 creo il file server.php
 2 genero una chiamata axios
 3 creo l'endpoint nel file server.php
+4 decodifico il contenuto del file json in stringa
+5 stampo in console la stringa
