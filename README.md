@@ -19,4 +19,4 @@ Pseudocodice
 
 1 creo il file server.php
 2 genero una chiamata axios
-3 
+3 creo l'endpoint nel file server.php

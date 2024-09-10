@@ -13,4 +13,7 @@ createApp({
             });
         }
     },
+    created() {
+        this.getToDoList();
+    }
 }).mount('#app');
