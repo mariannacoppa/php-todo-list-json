@@ -14,3 +14,9 @@ Bonus
 3 - Permettere di segnare un task come completato facendo click sul testo
 4 - Permettere il toggle del task (completato/non completato)
 6 - Abilitare l’eliminazione di un task
+
+Pseudocodice
+
+1 creo il file server.php
+2 genero una chiamata axios
+3 
