@@ -1,5 +1,5 @@
 <?php
-
+    include './server.php';
 ?>
 <!DOCTYPE html>
 <html lang="en">
@@ -13,7 +13,9 @@
 </head>
 <body>
     <div id="app">
-
+        <div class="list">
+            <!-- <?php  ?> -->
+        </div>
     </div>
     <script src="./js/script.js" type="text/javascript"></script>
 </body>
