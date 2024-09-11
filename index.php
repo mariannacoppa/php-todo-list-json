@@ -13,8 +13,15 @@
 </head>
 <body>
     <div id="app">
-        <div class="list">
-            <!-- <?php  ?> -->
+        <div class="container">
+            <div class="row">
+                <div class="col-12 text-center">
+                    <div class="list">
+                            <?php echo join("<br>", $mapArray); ?>
+                    </div>
+                    
+                </div>
+            </div>
         </div>
     </div>
     <script src="./js/script.js" type="text/javascript"></script>
